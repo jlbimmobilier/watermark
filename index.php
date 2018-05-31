@@ -13,9 +13,9 @@ foreach($files as $filename)
 		$from = $filename;
 		$to = str_replace('sources', 'tagged', $filename);
 		echo "\033[34m Processing:\033[0m $filename";
-        $watermark->apply($from, $to, 'watermark.png', 3);
-        echo "\033[32m done ✓\033[0m \n";
-    } 
+		$watermark->apply($from, $to, 'watermark.png', 3);
+		echo "\033[32m done ✓\033[0m \n";
+	}
 }
 
 ?>
