@@ -18,7 +18,7 @@ php index.php
 
 Wait for the script to end then find your photos in `tagged`.
 
-![Screenshot of a terminal](relative/path/to/img.jpg?raw=true "Title")
+![Screenshot of a terminal](screenshot.png?raw=true "Title")
 
 ## Optimizations
 
