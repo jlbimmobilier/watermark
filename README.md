@@ -30,4 +30,6 @@ Wait for the script to end then find your photos in `tagged`.
 
 Thanks to the [Watermark class by zeanwork](https://github.com/zeanwork/Watermark)
 
+## Manual process
 
+The manual process used by our operators is also available in `manual_process.zip`
